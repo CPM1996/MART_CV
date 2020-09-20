@@ -1,0 +1,4 @@
+cono_azul
+cono_amarillo
+cono_naranja_chico
+cono_naranja_grande
