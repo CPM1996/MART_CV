@@ -149,7 +149,7 @@ double calibrar_f(VideoCapture cap, Net red, Param_calibracion parametros, float
 	Conos_detectados cono;
 	double f;
 
-	// Ejecuta la red neuronal hasa que encuentre un cono
+	// Ejecuta la red neuronal hasta que encuentre un cono
 	do{
 			cap >> imagen;
 			if (imagen.empty()){
